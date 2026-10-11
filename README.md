@@ -28,13 +28,13 @@ the tunnels is scripted: every passage is the accumulated result of individual w
 ## Install (per user, no root)
 
 From a release: download `shadow-ant-farm-<version>-linux-x86_64.tar.gz` from
-[Releases](https://github.com/Shadowfetchapps/shadow-ant-farm/releases), extract it and run
+[Releases](https://github.com/ShadowfetchStudio/shadow-ant-farm/releases), extract it and run
 `tools/install.sh` inside the extracted folder.
 
 From source:
 
 ```bash
-git clone --recursive https://github.com/Shadowfetchapps/shadow-ant-farm.git
+git clone --recursive https://github.com/ShadowfetchStudio/shadow-ant-farm.git
 cd shadow-ant-farm
 GODOT=/path/to/Godot_v4.7.2-stable_linux.x86_64 tools/build.sh
 tools/install.sh
