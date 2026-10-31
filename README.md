@@ -75,6 +75,8 @@ for every option, the operator window, checkpoints, the soak test and troublesho
 | `tools/` | `antfarm_sim` (headless accelerated runs and maps), build and install scripts |
 | `third_party/godot-cpp` | godot-cpp 10.0.0-stable (submodule) |
 
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE). Third-party components and their licences are listed in [docs/ASSETS.md](docs/ASSETS.md).
